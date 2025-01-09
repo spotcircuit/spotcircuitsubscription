@@ -1,0 +1,103 @@
+{
+  "unsplash_api_key": "YOUR_UNSPLASH_ACCESS_KEY",
+  "pexels_api_key": "YORCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI",
+  "pixabay_api_key": "48133257-76310a353e67a7ce6140a42f4",
+  "image_sources": {
+    "unsplash": {
+      "enabled": false,
+      "api_url": "https://api.unsplash.com"
+    },
+    "pexels": {
+      "enabled": true,
+      "api_url": "https://api.pexels.com/v1"
+    },
+    "pixabay": {
+      "enabled": true,
+      "api_url": "https://pixabay.com/api"
+    }
+  },
+  "categories": {
+    "hero": {
+      "required_dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "description": "Hero section images",
+      "required_tags": ["medical spa", "aesthetic clinic"]
+    },
+    "equipment": {
+      "required_dimensions": {
+        "width": 800,
+        "height": 600
+      },
+      "description": "Equipment detail shots",
+      "required_tags": ["medical laser", "aesthetic equipment"]
+    },
+    "consultation": {
+      "required_dimensions": {
+        "width": 800,
+        "height": 600
+      },
+      "description": "Consultation and client interaction images",
+      "required_tags": ["medical consultation", "aesthetic consultation"]
+    },
+    "gallery": {
+      "required_dimensions": {
+        "width": 800,
+        "height": 600
+      },
+      "description": "Gallery and portfolio images",
+      "required_tags": ["treatment results", "before after"]
+    },
+    "staff": {
+      "required_dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "description": "Staff and team photos",
+      "required_tags": ["medical staff", "team"]
+    },
+    "background": {
+      "required_dimensions": {
+        "width": 2000,
+        "height": 2000
+      },
+      "description": "Background patterns and textures",
+      "required_tags": ["background", "pattern"]
+    },
+    "treatment": {
+      "required_dimensions": {
+        "width": 800,
+        "height": 600
+      },
+      "description": "Treatment procedures and results",
+      "required_tags": ["medical spa treatment", "aesthetic treatment"]
+    }
+  },
+  "tags": {
+    "medical-spa": "Medical spa environment and atmosphere",
+    "equipment": "Medical and aesthetic equipment",
+    "technical": "Technical details and interfaces",
+    "consultation": "Client consultations and interactions",
+    "client": "Client-focused images",
+    "background": "Background elements and patterns",
+    "pattern": "Repeatable patterns and textures",
+    "treatment": "Treatment procedures and results",
+    "staff": "Staff and professional images",
+    "interior": "Interior and facility images"
+  },
+  "sources": {
+    "shutterstock": {
+      "base_url": "https://www.shutterstock.com/image-photo/",
+      "license_type": "standard"
+    },
+    "adobe-stock": {
+      "base_url": "https://stock.adobe.com/images/",
+      "license_type": "standard"
+    },
+    "unsplash": {
+      "base_url": "https://unsplash.com/photos/",
+      "license_type": "free"
+    }
+  }
+}
