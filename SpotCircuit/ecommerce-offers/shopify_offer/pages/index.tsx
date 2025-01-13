@@ -17,7 +17,9 @@ export default function Home() {
         </div>
         <Services />
         <FAQ />
-        <Booking />
+        <div id="booking">
+          <Booking />
+        </div>
       </main>
       <Footer />
     </div>

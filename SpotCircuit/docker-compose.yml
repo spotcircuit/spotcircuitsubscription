@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "3800:3800"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+
+  image-finder:
+    build: 
+      context: .
+      dockerfile: medical_spa_offers/aeo_offer/Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./medical_spa_offers/aeo_offer:/app
+    environment:
+      - FLASK_ENV=development

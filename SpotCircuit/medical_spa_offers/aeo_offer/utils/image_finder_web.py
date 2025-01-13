@@ -232,4 +232,8 @@ def download_and_convert(image_url, output_path, width, height):
 if __name__ == '__main__':
     log_to_file("\n=== Starting Pexels Image Finder ===")
     log_to_file("Server running on http://localhost:3800")
+    # Only use these settings when running locally
     app.run(debug=True, port=3800)
+else:
+    # Production settings
+    log_to_file("\n=== Starting Pexels Image Finder in Production ===")

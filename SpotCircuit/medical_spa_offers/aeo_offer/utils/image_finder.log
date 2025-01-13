@@ -3543,3 +3543,331 @@ Trying Pexels search with query: medical weight loss (page 2)
 2025-01-09 14:03:54,576 - DEBUG - Starting new HTTPS connection (1): images.pexels.com:443
 2025-01-09 14:03:55,240 - DEBUG - https://images.pexels.com:443 "GET /photos/7991910/pexels-photo-7991910.jpeg HTTP/11" 200 1691199
 2025-01-09 14:03:55,895 - INFO - 127.0.0.1 - - [09/Jan/2025 14:03:55] "POST /download HTTP/1.1" 200 -
+2025-01-09 15:10:40,218 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,243 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,325 - INFO -  * Restarting with stat
+2025-01-09 15:10:40,344 - INFO -  * Restarting with stat
+2025-01-09 15:10:40,440 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,537 - INFO -  * Restarting with stat
+2025-01-09 15:10:40,567 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,581 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,615 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,682 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,691 - INFO -  * Restarting with stat
+2025-01-09 15:10:40,701 - INFO -  * Restarting with stat
+2025-01-09 15:10:40,719 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,747 - INFO -  * Restarting with stat
+2025-01-09 15:10:40,790 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,817 - INFO -  * Restarting with stat
+2025-01-09 15:10:40,829 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,835 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,859 - INFO -  * Restarting with stat
+2025-01-09 15:10:40,937 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:40,987 - INFO -  * Restarting with stat
+2025-01-09 15:10:40,991 - INFO -  * Restarting with stat
+2025-01-09 15:10:40,994 - INFO -  * Restarting with stat
+2025-01-09 15:10:41,158 - INFO -  * Restarting with stat
+2025-01-09 15:10:41,301 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:41,301 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:41,302 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:41,302 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:41,303 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:41,341 - WARNING -  * Debugger is active!
+2025-01-09 15:10:41,343 - WARNING -  * Debugger is active!
+2025-01-09 15:10:41,369 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:41,369 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:41,396 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:41,457 - INFO -  * Restarting with stat
+2025-01-09 15:10:41,474 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:41,475 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:41,503 - WARNING -  * Debugger is active!
+2025-01-09 15:10:41,531 - INFO -  * Restarting with stat
+2025-01-09 15:10:41,538 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:41,565 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:41,625 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:41,625 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:41,654 - WARNING -  * Debugger is active!
+2025-01-09 15:10:41,685 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:41,692 - INFO -  * Restarting with stat
+2025-01-09 15:10:41,708 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:41,709 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:41,749 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:41,750 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:41,753 - WARNING -  * Debugger is active!
+2025-01-09 15:10:41,778 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:41,788 - WARNING -  * Debugger is active!
+2025-01-09 15:10:41,860 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:41,874 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:41,875 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:41,906 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:41,907 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:41,910 - WARNING -  * Debugger is active!
+2025-01-09 15:10:41,936 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:41,938 - WARNING -  * Debugger is active!
+2025-01-09 15:10:41,964 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:42,000 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:42,000 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:42,032 - WARNING -  * Debugger is active!
+2025-01-09 15:10:42,057 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:42,107 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:42,108 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:42,139 - WARNING -  * Debugger is active!
+2025-01-09 15:10:42,140 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:42,140 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:42,157 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:42,157 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:42,164 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:42,169 - WARNING -  * Debugger is active!
+2025-01-09 15:10:42,188 - WARNING -  * Debugger is active!
+2025-01-09 15:10:42,197 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:42,215 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:42,470 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:42,470 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:42,478 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:42,478 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:42,498 - WARNING -  * Debugger is active!
+2025-01-09 15:10:42,506 - WARNING -  * Debugger is active!
+2025-01-09 15:10:42,525 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:42,531 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:42,649 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:42,650 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:42,678 - WARNING -  * Debugger is active!
+2025-01-09 15:10:42,709 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:43,343 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:43,440 - INFO -  * Restarting with stat
+2025-01-09 15:10:43,815 - INFO -  * Detected change in 'c:\\Users\\Big Daddy Pyatt\\CascadeProjects\\subscriptions\\nextjs-subscription-payments\\spotcircuit\\medical_spa_offers\\aeo_offer\\utils\\image_finder_web.py', reloading
+2025-01-09 15:10:43,956 - INFO -  * Restarting with stat
+2025-01-09 15:10:44,324 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:44,324 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:44,353 - WARNING -  * Debugger is active!
+2025-01-09 15:10:44,379 - INFO -  * Debugger PIN: 139-578-246
+2025-01-09 15:10:44,780 - INFO - 
+=== Starting Pexels Image Finder ===
+2025-01-09 15:10:44,781 - INFO - Server running on http://localhost:3800
+2025-01-09 15:10:44,815 - WARNING -  * Debugger is active!
+2025-01-09 15:10:44,839 - INFO -  * Debugger PIN: 139-578-246
+2025-01-10 10:28:30,461 - INFO - 
+Searching Pixabay for: medical spa (page 1)
+2025-01-10 10:28:30,467 - DEBUG - Starting new HTTPS connection (1): pixabay.com:443
+2025-01-10 10:28:31,279 - DEBUG - https://pixabay.com:443 "GET /api?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 None
+2025-01-10 10:28:31,282 - DEBUG - Starting new HTTP connection (1): pixabay.com:80
+2025-01-10 10:28:31,349 - DEBUG - http://pixabay.com:80 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 167
+2025-01-10 10:28:31,482 - DEBUG - https://pixabay.com:443 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 200 None
+2025-01-10 10:28:31,486 - INFO - Pixabay results page 1: 15
+2025-01-10 10:28:31,487 - INFO - 
+Trying Pexels search with query: medical spa (page 1)
+2025-01-10 10:28:31,487 - INFO - Using Pexels API key: RCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI
+2025-01-10 10:28:31,487 - INFO - Making request to Pexels API...
+2025-01-10 10:28:31,489 - DEBUG - Starting new HTTPS connection (1): api.pexels.com:443
+2025-01-10 10:28:32,373 - DEBUG - https://api.pexels.com:443 "GET /v1/search?query=medical+spa&per_page=15&page=1&orientation=landscape HTTP/11" 200 None
+2025-01-10 10:28:32,375 - INFO - Pexels response status: 200
+2025-01-10 10:28:32,375 - INFO - Pexels response headers: {'Date': 'Fri, 10 Jan 2025 15:27:54 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'CF-Ray': '8ffdb19b88109c84-IAD', 'CF-Cache-Status': 'HIT', 'Access-Control-Allow-Origin': '*', 'Age': '74324', 'Cache-Control': 'max-age=86400', 'ETag': 'W/"c51aa84a549d2535baea17e42ac826bd"', 'Expires': 'Sat, 11 Jan 2025 15:27:54 GMT', 'Access-Control-Allow-Headers': 'Accept, Content-Type, Content-Length, Accept-Encoding, Authorization, User-Agent', 'x-frame-options': 'SAMEORIGIN', 'X-Ratelimit-Limit': '25000', 'X-Ratelimit-Remaining': '24934', 'X-Ratelimit-Reset': '1739038210', 'x-request-id': '052503f8-584a-4bd1-bbfb-820d988d046d', 'x-runtime': '0.214760', 'Set-Cookie': '__cf_bm=lIgrYsoT4okZCvaCsbdFYqkNmnhNgh_axxWubyzW7zk-1736522874-1.0.1.1-kbgvImmkpJI8xRXsFU3s4L1B6zw9iS3uCCzsgasO3ahfiDPOzxVxXASbszHyA_b_iPQjNSPR__RrEZ0hPGGhmw; path=/; expires=Fri, 10-Jan-25 15:57:54 GMT; domain=.pexels.com; HttpOnly; Secure; SameSite=None, _cfuvid=EldLZbBbE__RS_t6I1Z3Cqu0hjeixSBrHWP33.JiM0k-1736522874332-0.0.1.1-604800000; path=/; domain=.pexels.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-01-10 10:28:32,375 - INFO - Pexels response data: {'page': 1, 'per_page': 15, 'photos': [{'id': 16131207, 'width': 5666, 'height': 3777, 'url': 'https://www.pexels.com/photo/woman-during-facial-treatment-16131207/', 'photographer': 'Omar Medina', 'photographer_url': 'https://www.pexels.com/@omarmedinaoficial', 'photographer_id': 16618519, 'avg_color': '#C1C1C3', 'src': {'original': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg', 'large2x': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg?auto=compres...
+2025-01-10 10:28:32,375 - INFO - Successfully processed 15 Pexels images
+2025-01-10 10:28:32,377 - INFO - Pexels results page 1: 15
+2025-01-10 10:28:32,378 - INFO - 127.0.0.1 - - [10/Jan/2025 10:28:32] "GET /search?query=medical%20spa&pixabay_page=1&pexels_page=1&t=1736522910459 HTTP/1.1" 200 -
+2025-01-10 14:11:13,383 - INFO - 127.0.0.1 - - [10/Jan/2025 14:11:13] "GET / HTTP/1.1" 200 -
+2025-01-10 14:11:13,717 - INFO - 
+Searching Pixabay for: medical spa (page 1)
+2025-01-10 14:11:13,719 - DEBUG - Starting new HTTPS connection (1): pixabay.com:443
+2025-01-10 14:11:14,280 - DEBUG - https://pixabay.com:443 "GET /api?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 None
+2025-01-10 14:11:14,282 - DEBUG - Starting new HTTP connection (1): pixabay.com:80
+2025-01-10 14:11:14,337 - DEBUG - http://pixabay.com:80 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 167
+2025-01-10 14:11:14,442 - DEBUG - https://pixabay.com:443 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 200 None
+2025-01-10 14:11:14,444 - INFO - Pixabay results page 1: 15
+2025-01-10 14:11:14,444 - INFO - 
+Trying Pexels search with query: medical spa (page 1)
+2025-01-10 14:11:14,444 - INFO - Using Pexels API key: RCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI
+2025-01-10 14:11:14,444 - INFO - Making request to Pexels API...
+2025-01-10 14:11:14,445 - DEBUG - Starting new HTTPS connection (1): api.pexels.com:443
+2025-01-10 14:11:15,621 - DEBUG - https://api.pexels.com:443 "GET /v1/search?query=medical+spa&per_page=15&page=1&orientation=landscape HTTP/11" 200 None
+2025-01-10 14:11:15,623 - INFO - Pexels response status: 200
+2025-01-10 14:11:15,624 - INFO - Pexels response headers: {'Date': 'Fri, 10 Jan 2025 19:10:37 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'CF-Ray': '8ffef7d9dec29c76-IAD', 'CF-Cache-Status': 'EXPIRED', 'Access-Control-Allow-Origin': '*', 'Cache-Control': 'max-age=86400', 'ETag': 'W/"be93bc354c26088cb161a5100be0c22f"', 'Expires': 'Sat, 11 Jan 2025 19:10:37 GMT', 'Access-Control-Allow-Headers': 'Accept, Content-Type, Content-Length, Accept-Encoding, Authorization, User-Agent', 'x-frame-options': 'SAMEORIGIN', 'X-Ratelimit-Limit': '25000', 'X-Ratelimit-Remaining': '24933', 'X-Ratelimit-Reset': '1739038210', 'x-request-id': '410fdc5c-6620-4420-a674-9a7542e5149f', 'x-runtime': '0.247436', 'Set-Cookie': '__cf_bm=QeuU4GT4aAx.i8I4mRLSpRTqzZM9kH01Z3s_t5Ps1Oc-1736536237-1.0.1.1-5CAJT3Gl7y7qLnTp9850GyZFFdRz8V_gMsslxDxrRhAQrp72vawlAw_U4mVn_GwDDM_xbg.vRnrK_JYGx3uasA; path=/; expires=Fri, 10-Jan-25 19:40:37 GMT; domain=.pexels.com; HttpOnly; Secure; SameSite=None, _cfuvid=Qdy4Yqa6s2y5qHwBfPd_T4kpU0nH.rAxn9.YvecowdU-1736536237501-0.0.1.1-604800000; path=/; domain=.pexels.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-01-10 14:11:15,624 - INFO - Pexels response data: {'page': 1, 'per_page': 15, 'photos': [{'id': 16131207, 'width': 5666, 'height': 3777, 'url': 'https://www.pexels.com/photo/woman-during-facial-treatment-16131207/', 'photographer': 'Omar Medina', 'photographer_url': 'https://www.pexels.com/@omarmedinaoficial', 'photographer_id': 16618519, 'avg_color': '#C1C1C3', 'src': {'original': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg', 'large2x': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg?auto=compres...
+2025-01-10 14:11:15,625 - INFO - Successfully processed 15 Pexels images
+2025-01-10 14:11:15,627 - INFO - Pexels results page 1: 15
+2025-01-10 14:11:15,628 - INFO - 127.0.0.1 - - [10/Jan/2025 14:11:15] "GET /search?query=medical%20spa&pixabay_page=1&pexels_page=1&t=1736536273716 HTTP/1.1" 200 -
+2025-01-10 14:14:04,000 - INFO - 127.0.0.1 - - [10/Jan/2025 14:14:04] "GET / HTTP/1.1" 200 -
+2025-01-10 14:14:04,192 - INFO - 
+Searching Pixabay for: medical spa (page 1)
+2025-01-10 14:14:04,194 - DEBUG - Starting new HTTPS connection (1): pixabay.com:443
+2025-01-10 14:14:05,034 - DEBUG - https://pixabay.com:443 "GET /api?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 None
+2025-01-10 14:14:05,036 - DEBUG - Starting new HTTP connection (1): pixabay.com:80
+2025-01-10 14:14:05,132 - DEBUG - http://pixabay.com:80 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 167
+2025-01-10 14:14:05,247 - DEBUG - https://pixabay.com:443 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 200 None
+2025-01-10 14:14:05,251 - INFO - Pixabay results page 1: 15
+2025-01-10 14:14:05,251 - INFO - 
+Trying Pexels search with query: medical spa (page 1)
+2025-01-10 14:14:05,251 - INFO - Using Pexels API key: RCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI
+2025-01-10 14:14:05,251 - INFO - Making request to Pexels API...
+2025-01-10 14:14:05,254 - DEBUG - Starting new HTTPS connection (1): api.pexels.com:443
+2025-01-10 14:14:06,094 - DEBUG - https://api.pexels.com:443 "GET /v1/search?query=medical+spa&per_page=15&page=1&orientation=landscape HTTP/11" 200 None
+2025-01-10 14:14:06,097 - INFO - Pexels response status: 200
+2025-01-10 14:14:06,097 - INFO - Pexels response headers: {'Date': 'Fri, 10 Jan 2025 19:13:27 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'CF-Ray': '8ffefc05198e0850-IAD', 'CF-Cache-Status': 'HIT', 'Access-Control-Allow-Origin': '*', 'Age': '170', 'Cache-Control': 'max-age=86400', 'ETag': 'W/"be93bc354c26088cb161a5100be0c22f"', 'Expires': 'Sat, 11 Jan 2025 19:13:27 GMT', 'Access-Control-Allow-Headers': 'Accept, Content-Type, Content-Length, Accept-Encoding, Authorization, User-Agent', 'x-frame-options': 'SAMEORIGIN', 'X-Ratelimit-Limit': '25000', 'X-Ratelimit-Remaining': '24932', 'X-Ratelimit-Reset': '1739038210', 'x-request-id': '410fdc5c-6620-4420-a674-9a7542e5149f', 'x-runtime': '0.247436', 'Set-Cookie': '__cf_bm=AfBjsORSaBnhUD5adJc4XaVq0tk1c2iCG0AeaI1FfFs-1736536407-1.0.1.1-jkOsD8_kBwZ0GBx4OBOdQG4qGHAlGjjuohf.mrVGpMPon6hQvDAzoLEQXrPgnM0sntsvWNr2iIou_eFoHIYgCA; path=/; expires=Fri, 10-Jan-25 19:43:27 GMT; domain=.pexels.com; HttpOnly; Secure; SameSite=None, _cfuvid=jA5KeWGO6y7D_sRzqMD78LWuWpVdrx1DBVKxYuL0y54-1736536407976-0.0.1.1-604800000; path=/; domain=.pexels.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-01-10 14:14:06,098 - INFO - Pexels response data: {'page': 1, 'per_page': 15, 'photos': [{'id': 16131207, 'width': 5666, 'height': 3777, 'url': 'https://www.pexels.com/photo/woman-during-facial-treatment-16131207/', 'photographer': 'Omar Medina', 'photographer_url': 'https://www.pexels.com/@omarmedinaoficial', 'photographer_id': 16618519, 'avg_color': '#C1C1C3', 'src': {'original': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg', 'large2x': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg?auto=compres...
+2025-01-10 14:14:06,098 - INFO - Successfully processed 15 Pexels images
+2025-01-10 14:14:06,100 - INFO - Pexels results page 1: 15
+2025-01-10 14:14:06,101 - INFO - 127.0.0.1 - - [10/Jan/2025 14:14:06] "GET /search?query=medical%20spa&pixabay_page=1&pexels_page=1&t=1736536444189 HTTP/1.1" 200 -
+2025-01-10 14:14:08,025 - INFO - 127.0.0.1 - - [10/Jan/2025 14:14:08] "GET / HTTP/1.1" 200 -
+2025-01-10 14:14:08,327 - INFO - 
+Searching Pixabay for: medical spa (page 1)
+2025-01-10 14:14:08,330 - DEBUG - Starting new HTTPS connection (1): pixabay.com:443
+2025-01-10 14:14:08,670 - INFO - 127.0.0.1 - - [10/Jan/2025 14:14:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-10 14:14:09,116 - DEBUG - https://pixabay.com:443 "GET /api?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 None
+2025-01-10 14:14:09,118 - DEBUG - Starting new HTTP connection (1): pixabay.com:80
+2025-01-10 14:14:09,170 - DEBUG - http://pixabay.com:80 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 167
+2025-01-10 14:14:09,292 - DEBUG - https://pixabay.com:443 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 200 None
+2025-01-10 14:14:09,296 - INFO - Pixabay results page 1: 15
+2025-01-10 14:14:09,296 - INFO - 
+Trying Pexels search with query: medical spa (page 1)
+2025-01-10 14:14:09,296 - INFO - Using Pexels API key: RCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI
+2025-01-10 14:14:09,296 - INFO - Making request to Pexels API...
+2025-01-10 14:14:09,298 - DEBUG - Starting new HTTPS connection (1): api.pexels.com:443
+2025-01-10 14:14:10,046 - DEBUG - https://api.pexels.com:443 "GET /v1/search?query=medical+spa&per_page=15&page=1&orientation=landscape HTTP/11" 200 None
+2025-01-10 14:14:10,047 - INFO - Pexels response status: 200
+2025-01-10 14:14:10,047 - INFO - Pexels response headers: {'Date': 'Fri, 10 Jan 2025 19:13:31 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'CF-Ray': '8ffefc1e1c8f87a3-IAD', 'CF-Cache-Status': 'HIT', 'Access-Control-Allow-Origin': '*', 'Age': '174', 'Cache-Control': 'max-age=86400', 'ETag': 'W/"be93bc354c26088cb161a5100be0c22f"', 'Expires': 'Sat, 11 Jan 2025 19:13:31 GMT', 'Access-Control-Allow-Headers': 'Accept, Content-Type, Content-Length, Accept-Encoding, Authorization, User-Agent', 'x-frame-options': 'SAMEORIGIN', 'X-Ratelimit-Limit': '25000', 'X-Ratelimit-Remaining': '24931', 'X-Ratelimit-Reset': '1739038210', 'x-request-id': '410fdc5c-6620-4420-a674-9a7542e5149f', 'x-runtime': '0.247436', 'Set-Cookie': '__cf_bm=ksHv7m3wi9szNvt08ASrHesBuftPBfnz0rT29Vxg44w-1736536411-1.0.1.1-BNRmd0yT5LrTcUzeJZ9PWDs4Z4quSbGcARGaQK5eNi8rprJOBaAladfJqTJ9T.I2f7lq25qJD0sMocfOLFscSw; path=/; expires=Fri, 10-Jan-25 19:43:31 GMT; domain=.pexels.com; HttpOnly; Secure; SameSite=None, _cfuvid=9MFUfjBFnR_QG83Ok7FS1nEuTrlBRpe00M1COetP2OA-1736536411925-0.0.1.1-604800000; path=/; domain=.pexels.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-01-10 14:14:10,048 - INFO - Pexels response data: {'page': 1, 'per_page': 15, 'photos': [{'id': 16131207, 'width': 5666, 'height': 3777, 'url': 'https://www.pexels.com/photo/woman-during-facial-treatment-16131207/', 'photographer': 'Omar Medina', 'photographer_url': 'https://www.pexels.com/@omarmedinaoficial', 'photographer_id': 16618519, 'avg_color': '#C1C1C3', 'src': {'original': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg', 'large2x': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg?auto=compres...
+2025-01-10 14:14:10,048 - INFO - Unexpected error in Pexels search: [Errno 22] Invalid argument
+2025-01-10 14:14:10,048 - INFO - Full error: OSError(22, 'Invalid argument')
+2025-01-10 14:14:10,049 - INFO - Pexels results page 1: 0
+2025-01-10 14:14:10,049 - INFO - 127.0.0.1 - - [10/Jan/2025 14:14:10] "GET /search?query=medical%20spa&pixabay_page=1&pexels_page=1&t=1736536448272 HTTP/1.1" 200 -
+2025-01-10 14:38:53,199 - INFO - 127.0.0.1 - - [10/Jan/2025 14:38:53] "GET / HTTP/1.1" 200 -
+2025-01-10 14:38:53,463 - INFO - 127.0.0.1 - - [10/Jan/2025 14:38:53] "GET / HTTP/1.1" 200 -
+2025-01-10 14:38:53,689 - INFO - 
+Searching Pixabay for: medical spa (page 1)
+2025-01-10 14:38:53,691 - DEBUG - Starting new HTTPS connection (1): pixabay.com:443
+2025-01-10 14:39:03,218 - DEBUG - https://pixabay.com:443 "GET /api?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 None
+2025-01-10 14:39:03,221 - DEBUG - Starting new HTTP connection (1): pixabay.com:80
+2025-01-10 14:39:04,296 - DEBUG - http://pixabay.com:80 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 167
+2025-01-10 14:39:05,542 - DEBUG - https://pixabay.com:443 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 200 None
+2025-01-10 14:39:05,547 - INFO - Pixabay results page 1: 15
+2025-01-10 14:39:05,548 - INFO - 
+Trying Pexels search with query: medical spa (page 1)
+2025-01-10 14:39:05,548 - INFO - Using Pexels API key: RCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI
+2025-01-10 14:39:05,548 - INFO - Making request to Pexels API...
+2025-01-10 14:39:05,549 - DEBUG - Starting new HTTPS connection (1): api.pexels.com:443
+2025-01-10 14:39:08,196 - DEBUG - https://api.pexels.com:443 "GET /v1/search?query=medical+spa&per_page=15&page=1&orientation=landscape HTTP/11" 200 None
+2025-01-10 14:39:08,200 - INFO - Pexels response status: 200
+2025-01-10 14:39:08,200 - INFO - Pexels response headers: {'Date': 'Fri, 10 Jan 2025 19:38:30 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'CF-Ray': '8fff20b15e5b3b8f-IAD', 'CF-Cache-Status': 'HIT', 'Access-Control-Allow-Origin': '*', 'Age': '1673', 'Cache-Control': 'max-age=86400', 'ETag': 'W/"be93bc354c26088cb161a5100be0c22f"', 'Expires': 'Sat, 11 Jan 2025 19:38:30 GMT', 'Access-Control-Allow-Headers': 'Accept, Content-Type, Content-Length, Accept-Encoding, Authorization, User-Agent', 'x-frame-options': 'SAMEORIGIN', 'X-Ratelimit-Limit': '25000', 'X-Ratelimit-Remaining': '24930', 'X-Ratelimit-Reset': '1739038210', 'x-request-id': '410fdc5c-6620-4420-a674-9a7542e5149f', 'x-runtime': '0.247436', 'Set-Cookie': '__cf_bm=Qr.rfR.UrLpPKnw5DPP278gJa7tikPzkeVC9dWWGckE-1736537910-1.0.1.1-F_oOhAKm.1L4t3f2uwHXiLv0VxgiU1.8rH1gcTGJCuS4C2yKQdi8oMgRIX9dNWZKGuyx0Btr.mXNd9CZv1yuLg; path=/; expires=Fri, 10-Jan-25 20:08:30 GMT; domain=.pexels.com; HttpOnly; Secure; SameSite=None, _cfuvid=yJD7HPcZmkSOPPtuOHucpMe1h8m98QESorP3KirqbVY-1736537910068-0.0.1.1-604800000; path=/; domain=.pexels.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-01-10 14:39:08,200 - INFO - Pexels response data: {'page': 1, 'per_page': 15, 'photos': [{'id': 16131207, 'width': 5666, 'height': 3777, 'url': 'https://www.pexels.com/photo/woman-during-facial-treatment-16131207/', 'photographer': 'Omar Medina', 'photographer_url': 'https://www.pexels.com/@omarmedinaoficial', 'photographer_id': 16618519, 'avg_color': '#C1C1C3', 'src': {'original': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg', 'large2x': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg?auto=compres...
+2025-01-10 14:39:08,201 - INFO - Successfully processed 15 Pexels images
+2025-01-10 14:39:08,202 - INFO - Pexels results page 1: 15
+2025-01-10 14:39:08,203 - INFO - 127.0.0.1 - - [10/Jan/2025 14:39:08] "GET /search?query=medical%20spa&pixabay_page=1&pexels_page=1&t=1736537933686 HTTP/1.1" 200 -
+2025-01-10 14:54:07,692 - INFO - 127.0.0.1 - - [10/Jan/2025 14:54:07] "GET / HTTP/1.1" 200 -
+2025-01-10 14:54:07,971 - INFO - 
+Searching Pixabay for: medical spa (page 1)
+2025-01-10 14:54:07,973 - DEBUG - Starting new HTTPS connection (1): pixabay.com:443
+2025-01-10 14:54:08,770 - DEBUG - https://pixabay.com:443 "GET /api?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 None
+2025-01-10 14:54:08,773 - DEBUG - Starting new HTTP connection (1): pixabay.com:80
+2025-01-10 14:54:08,838 - DEBUG - http://pixabay.com:80 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 167
+2025-01-10 14:54:08,980 - DEBUG - https://pixabay.com:443 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=medical+spa&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 200 None
+2025-01-10 14:54:08,984 - INFO - Pixabay results page 1: 15
+2025-01-10 14:54:08,984 - INFO - 
+Trying Pexels search with query: medical spa (page 1)
+2025-01-10 14:54:08,984 - INFO - Using Pexels API key: RCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI
+2025-01-10 14:54:08,984 - INFO - Making request to Pexels API...
+2025-01-10 14:54:08,986 - DEBUG - Starting new HTTPS connection (1): api.pexels.com:443
+2025-01-10 14:54:09,489 - DEBUG - https://api.pexels.com:443 "GET /v1/search?query=medical+spa&per_page=15&page=1&orientation=landscape HTTP/11" 200 None
+2025-01-10 14:54:09,490 - INFO - Pexels response status: 200
+2025-01-10 14:54:09,491 - INFO - Pexels response headers: {'Date': 'Fri, 10 Jan 2025 19:53:31 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'CF-Ray': '8fff36b26a6a82a8-IAD', 'CF-Cache-Status': 'HIT', 'Access-Control-Allow-Origin': '*', 'Age': '2574', 'Cache-Control': 'max-age=86400', 'ETag': 'W/"be93bc354c26088cb161a5100be0c22f"', 'Expires': 'Sat, 11 Jan 2025 19:53:31 GMT', 'Access-Control-Allow-Headers': 'Accept, Content-Type, Content-Length, Accept-Encoding, Authorization, User-Agent', 'x-frame-options': 'SAMEORIGIN', 'X-Ratelimit-Limit': '25000', 'X-Ratelimit-Remaining': '24929', 'X-Ratelimit-Reset': '1739038210', 'x-request-id': '410fdc5c-6620-4420-a674-9a7542e5149f', 'x-runtime': '0.247436', 'Set-Cookie': '__cf_bm=G4.LZPXLCQPnRS07SNMdaBDV9t0REZBh88_TSG5tdek-1736538811-1.0.1.1-BmpqEFmsWbXx7dZrlia.1GQdB3L6FpssNfCc.c6qAU3RNsH5YSp9Tzo17U5UEFukjb_5_2h1jzCl_xK062sxSg; path=/; expires=Fri, 10-Jan-25 20:23:31 GMT; domain=.pexels.com; HttpOnly; Secure; SameSite=None, _cfuvid=oUE51tWH.KMKILhliqjPEubPd6Hf6DIx41YLOszcqIw-1736538811358-0.0.1.1-604800000; path=/; domain=.pexels.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-01-10 14:54:09,491 - INFO - Pexels response data: {'page': 1, 'per_page': 15, 'photos': [{'id': 16131207, 'width': 5666, 'height': 3777, 'url': 'https://www.pexels.com/photo/woman-during-facial-treatment-16131207/', 'photographer': 'Omar Medina', 'photographer_url': 'https://www.pexels.com/@omarmedinaoficial', 'photographer_id': 16618519, 'avg_color': '#C1C1C3', 'src': {'original': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg', 'large2x': 'https://images.pexels.com/photos/16131207/pexels-photo-16131207.jpeg?auto=compres...
+2025-01-10 14:54:09,491 - INFO - Successfully processed 15 Pexels images
+2025-01-10 14:54:09,492 - INFO - Pexels results page 1: 15
+2025-01-10 14:54:09,492 - INFO - 127.0.0.1 - - [10/Jan/2025 14:54:09] "GET /search?query=medical%20spa&pixabay_page=1&pexels_page=1&t=1736538847968 HTTP/1.1" 200 -
+2025-01-10 14:54:16,495 - INFO - 
+Searching Pixabay for: booking system (page 1)
+2025-01-10 14:54:16,497 - DEBUG - Starting new HTTPS connection (1): pixabay.com:443
+2025-01-10 14:54:17,278 - DEBUG - https://pixabay.com:443 "GET /api?key=48133257-76310a353e67a7ce6140a42f4&q=booking+system&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 None
+2025-01-10 14:54:17,281 - DEBUG - Starting new HTTP connection (1): pixabay.com:80
+2025-01-10 14:54:17,331 - DEBUG - http://pixabay.com:80 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=booking+system&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 167
+2025-01-10 14:54:17,437 - DEBUG - https://pixabay.com:443 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=booking+system&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 200 None
+2025-01-10 14:54:17,441 - INFO - Pixabay results page 1: 15
+2025-01-10 14:54:17,441 - INFO - 
+Trying Pexels search with query: booking system (page 1)
+2025-01-10 14:54:17,441 - INFO - Using Pexels API key: RCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI
+2025-01-10 14:54:17,441 - INFO - Making request to Pexels API...
+2025-01-10 14:54:17,442 - DEBUG - Starting new HTTPS connection (1): api.pexels.com:443
+2025-01-10 14:54:18,395 - DEBUG - https://api.pexels.com:443 "GET /v1/search?query=booking+system&per_page=15&page=1&orientation=landscape HTTP/11" 200 None
+2025-01-10 14:54:18,395 - INFO - Pexels response status: 200
+2025-01-10 14:54:18,395 - INFO - Pexels response headers: {'Date': 'Fri, 10 Jan 2025 19:53:40 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'CF-Ray': '8fff36e8d9385704-IAD', 'CF-Cache-Status': 'MISS', 'Access-Control-Allow-Origin': '*', 'Cache-Control': 'max-age=86400', 'ETag': 'W/"552177fa0a00055d2edacfb22fd21d0d"', 'Expires': 'Sat, 11 Jan 2025 19:53:40 GMT', 'Access-Control-Allow-Headers': 'Accept, Content-Type, Content-Length, Accept-Encoding, Authorization, User-Agent', 'x-frame-options': 'SAMEORIGIN', 'X-Ratelimit-Limit': '25000', 'X-Ratelimit-Remaining': '24928', 'X-Ratelimit-Reset': '1739038210', 'x-request-id': '2e5eb6f4-1452-4ff9-98bb-908f4f9e8642', 'x-runtime': '0.142768', 'Set-Cookie': '__cf_bm=UV2O94X.tD68nVJbng6Jhho5gNW9BJbWS2S58AXHFFk-1736538820-1.0.1.1-o2HHP_3p1CEbffw3pbl70X8lT1Kzs2Z8RUV4cQjjAGMU4EW9fJIkVp4ZXV21HH8WOXi7rzlDJJ3gLLoRHY8zOQ; path=/; expires=Fri, 10-Jan-25 20:23:40 GMT; domain=.pexels.com; HttpOnly; Secure; SameSite=None, _cfuvid=ArsFgqwWlCX4cpd_4A1jrmRjnP.v9ULny_j1kyaa3yw-1736538820261-0.0.1.1-604800000; path=/; domain=.pexels.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-01-10 14:54:18,396 - INFO - Pexels response data: {'page': 1, 'per_page': 15, 'photos': [{'id': 7820359, 'width': 6000, 'height': 4000, 'url': 'https://www.pexels.com/photo/man-handing-a-credit-card-to-a-hotel-receptionist-7820359/', 'photographer': 'Mikhail Nilov', 'photographer_url': 'https://www.pexels.com/@mikhail-nilov', 'photographer_id': 11437196, 'avg_color': '#61422E', 'src': {'original': 'https://images.pexels.com/photos/7820359/pexels-photo-7820359.jpeg', 'large2x': 'https://images.pexels.com/photos/7820359/pexels-photo-7820359.jpeg?...
+2025-01-10 14:54:18,396 - INFO - Successfully processed 15 Pexels images
+2025-01-10 14:54:18,397 - INFO - Pexels results page 1: 15
+2025-01-10 14:54:18,397 - INFO - 127.0.0.1 - - [10/Jan/2025 14:54:18] "GET /search?query=booking%20system&pixabay_page=1&pexels_page=1&t=1736538856492 HTTP/1.1" 200 -
+2025-01-10 14:54:31,760 - INFO - 
+Searching Pixabay for: appointment booking (page 1)
+2025-01-10 14:54:31,761 - DEBUG - Starting new HTTPS connection (1): pixabay.com:443
+2025-01-10 14:54:32,565 - DEBUG - https://pixabay.com:443 "GET /api?key=48133257-76310a353e67a7ce6140a42f4&q=appointment+booking&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 None
+2025-01-10 14:54:32,567 - DEBUG - Starting new HTTP connection (1): pixabay.com:80
+2025-01-10 14:54:32,640 - DEBUG - http://pixabay.com:80 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=appointment+booking&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 167
+2025-01-10 14:54:32,785 - DEBUG - https://pixabay.com:443 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=appointment+booking&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 200 None
+2025-01-10 14:54:32,792 - INFO - Pixabay results page 1: 15
+2025-01-10 14:54:32,792 - INFO - 
+Trying Pexels search with query: appointment booking (page 1)
+2025-01-10 14:54:32,792 - INFO - Using Pexels API key: RCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI
+2025-01-10 14:54:32,792 - INFO - Making request to Pexels API...
+2025-01-10 14:54:32,794 - DEBUG - Starting new HTTPS connection (1): api.pexels.com:443
+2025-01-10 14:54:33,764 - DEBUG - https://api.pexels.com:443 "GET /v1/search?query=appointment+booking&per_page=15&page=1&orientation=landscape HTTP/11" 200 None
+2025-01-10 14:54:33,768 - INFO - Pexels response status: 200
+2025-01-10 14:54:33,768 - INFO - Pexels response headers: {'Date': 'Fri, 10 Jan 2025 19:53:55 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'CF-Ray': '8fff3748fef6c5bd-IAD', 'CF-Cache-Status': 'MISS', 'Access-Control-Allow-Origin': '*', 'Cache-Control': 'max-age=86400', 'ETag': 'W/"0861b6ce99d661069544655128a554c1"', 'Expires': 'Sat, 11 Jan 2025 19:53:55 GMT', 'Access-Control-Allow-Headers': 'Accept, Content-Type, Content-Length, Accept-Encoding, Authorization, User-Agent', 'x-frame-options': 'SAMEORIGIN', 'X-Ratelimit-Limit': '25000', 'X-Ratelimit-Remaining': '24927', 'X-Ratelimit-Reset': '1739038210', 'x-request-id': '7a84a50d-1071-4ebd-85ce-dae7b63194d6', 'x-runtime': '0.132700', 'Set-Cookie': '__cf_bm=IOj_G8BdpdhQz346_RMd26gSTTBqFAajXq1npUL9lNU-1736538835-1.0.1.1-.6rTGW.w10nVgkH63hUHf38URq1Jv2K_e89yJqhvY7.xwWfsT0dngrDFaXxaG8WiBEwmdImxpe7S31Z7zfdmig; path=/; expires=Fri, 10-Jan-25 20:23:55 GMT; domain=.pexels.com; HttpOnly; Secure; SameSite=None, _cfuvid=p3YzCOfEZ73WnR_tOUmUwRRV9LSRQQ3Z2jJ9ewZ__WE-1736538835634-0.0.1.1-604800000; path=/; domain=.pexels.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-01-10 14:54:33,768 - INFO - Pexels response data: {'page': 1, 'per_page': 15, 'photos': [{'id': 7108318, 'width': 5473, 'height': 3654, 'url': 'https://www.pexels.com/photo/couple-during-registration-in-clinic-7108318/', 'photographer': 'Pavel Danilyuk', 'photographer_url': 'https://www.pexels.com/@pavel-danilyuk', 'photographer_id': 2297095, 'avg_color': '#C1C5C4', 'src': {'original': 'https://images.pexels.com/photos/7108318/pexels-photo-7108318.jpeg', 'large2x': 'https://images.pexels.com/photos/7108318/pexels-photo-7108318.jpeg?auto=compres...
+2025-01-10 14:54:33,768 - INFO - Unexpected error in Pexels search: [Errno 22] Invalid argument
+2025-01-10 14:54:33,768 - INFO - Full error: OSError(22, 'Invalid argument')
+2025-01-10 14:54:33,769 - INFO - Pexels results page 1: 0
+2025-01-10 14:54:33,770 - INFO - 127.0.0.1 - - [10/Jan/2025 14:54:33] "GET /search?query=appointment%20booking&pixabay_page=1&pexels_page=1&t=1736538871449 HTTP/1.1" 200 -
+2025-01-10 14:54:56,121 - INFO - 
+Searching Pixabay for: customer relationship management system (page 1)
+2025-01-10 14:54:56,123 - DEBUG - Starting new HTTPS connection (1): pixabay.com:443
+2025-01-10 14:54:56,887 - DEBUG - https://pixabay.com:443 "GET /api?key=48133257-76310a353e67a7ce6140a42f4&q=customer+relationship+management+system&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 None
+2025-01-10 14:54:56,890 - DEBUG - Starting new HTTP connection (1): pixabay.com:80
+2025-01-10 14:54:57,037 - DEBUG - http://pixabay.com:80 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=customer+relationship+management+system&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 167
+2025-01-10 14:54:57,144 - DEBUG - https://pixabay.com:443 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=customer+relationship+management+system&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 200 None
+2025-01-10 14:54:57,149 - INFO - Pixabay results page 1: 15
+2025-01-10 14:54:57,149 - INFO - 
+Trying Pexels search with query: customer relationship management system (page 1)
+2025-01-10 14:54:57,149 - INFO - Using Pexels API key: RCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI
+2025-01-10 14:54:57,149 - INFO - Making request to Pexels API...
+2025-01-10 14:54:57,151 - DEBUG - Starting new HTTPS connection (1): api.pexels.com:443
+2025-01-10 14:54:58,222 - DEBUG - https://api.pexels.com:443 "GET /v1/search?query=customer+relationship+management+system&per_page=15&page=1&orientation=landscape HTTP/11" 200 None
+2025-01-10 14:54:58,224 - INFO - Pexels response status: 200
+2025-01-10 14:54:58,224 - INFO - Pexels response headers: {'Date': 'Fri, 10 Jan 2025 19:54:20 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'CF-Ray': '8fff37e10861d6dd-IAD', 'CF-Cache-Status': 'MISS', 'Access-Control-Allow-Origin': '*', 'Cache-Control': 'max-age=86400', 'ETag': 'W/"1d0c0935c609cda4979113e67d2f71a5"', 'Expires': 'Sat, 11 Jan 2025 19:54:20 GMT', 'Access-Control-Allow-Headers': 'Accept, Content-Type, Content-Length, Accept-Encoding, Authorization, User-Agent', 'x-frame-options': 'SAMEORIGIN', 'X-Ratelimit-Limit': '25000', 'X-Ratelimit-Remaining': '24926', 'X-Ratelimit-Reset': '1739038210', 'x-request-id': 'b20c53f9-6ab9-403d-a6a3-974e2d0c52b9', 'x-runtime': '0.318502', 'Set-Cookie': '__cf_bm=.RF733Ur0phk3iGUo4sge9dRxyka3f3nxHOD6Z4cjuI-1736538860-1.0.1.1-olAn.qtPM4iAb72PgBInfAPD9lVi49ILmtbNJ3E.dajEghtgLAwlC7Rumqb_4vWXmGdlWY.BgLljIYKLEk8.oQ; path=/; expires=Fri, 10-Jan-25 20:24:20 GMT; domain=.pexels.com; HttpOnly; Secure; SameSite=None, _cfuvid=ws5c.KM5A5K29l3O8_IQooNNmIOWacQM7eV.hdSFtkQ-1736538860089-0.0.1.1-604800000; path=/; domain=.pexels.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-01-10 14:54:58,225 - INFO - Pexels response data: {'page': 1, 'per_page': 15, 'photos': [{'id': 7979432, 'width': 6720, 'height': 4480, 'url': 'https://www.pexels.com/photo/man-couple-love-woman-7979432/', 'photographer': 'Kindel Media', 'photographer_url': 'https://www.pexels.com/@kindelmedia', 'photographer_id': 10715715, 'avg_color': '#9E9F9A', 'src': {'original': 'https://images.pexels.com/photos/7979432/pexels-photo-7979432.jpeg', 'large2x': 'https://images.pexels.com/photos/7979432/pexels-photo-7979432.jpeg?auto=compress&cs=tinysrgb&dpr=2...
+2025-01-10 14:54:58,225 - INFO - Successfully processed 15 Pexels images
+2025-01-10 14:54:58,225 - INFO - Pexels results page 1: 15
+2025-01-10 14:54:58,226 - INFO - 127.0.0.1 - - [10/Jan/2025 14:54:58] "GET /search?query=customer%20relationship%20management%20system&pixabay_page=1&pexels_page=1&t=1736538896119 HTTP/1.1" 200 -
+2025-01-10 14:55:24,313 - INFO - 
+Searching Pixabay for: crm (page 1)
+2025-01-10 14:55:24,314 - DEBUG - Starting new HTTPS connection (1): pixabay.com:443
+2025-01-10 14:55:25,053 - DEBUG - https://pixabay.com:443 "GET /api?key=48133257-76310a353e67a7ce6140a42f4&q=crm&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 None
+2025-01-10 14:55:25,054 - DEBUG - Starting new HTTP connection (1): pixabay.com:80
+2025-01-10 14:55:25,155 - DEBUG - http://pixabay.com:80 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=crm&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 301 167
+2025-01-10 14:55:25,301 - DEBUG - https://pixabay.com:443 "GET /api/?key=48133257-76310a353e67a7ce6140a42f4&q=crm&per_page=15&page=1&image_type=photo&orientation=horizontal&safesearch=True HTTP/11" 200 None
+2025-01-10 14:55:25,304 - INFO - Pixabay results page 1: 1
+2025-01-10 14:55:25,304 - INFO - 
+Trying Pexels search with query: crm (page 1)
+2025-01-10 14:55:25,305 - INFO - Using Pexels API key: RCoXOGDmjtszWCUwiM7a0s6gesH12E6Gugb6WdYdykYKsjNVK564JiKI
+2025-01-10 14:55:25,305 - INFO - Making request to Pexels API...
+2025-01-10 14:55:25,306 - DEBUG - Starting new HTTPS connection (1): api.pexels.com:443
+2025-01-10 14:55:25,880 - DEBUG - https://api.pexels.com:443 "GET /v1/search?query=crm&per_page=15&page=1&orientation=landscape HTTP/11" 200 None
+2025-01-10 14:55:25,882 - INFO - Pexels response status: 200
+2025-01-10 14:55:25,882 - INFO - Pexels response headers: {'Date': 'Fri, 10 Jan 2025 19:54:47 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'CF-Ray': '8fff388f5b1c824b-IAD', 'CF-Cache-Status': 'MISS', 'Access-Control-Allow-Origin': '*', 'Cache-Control': 'max-age=86400', 'ETag': 'W/"d0b94060f02baf2517e8d85097a17d32"', 'Expires': 'Sat, 11 Jan 2025 19:54:47 GMT', 'Access-Control-Allow-Headers': 'Accept, Content-Type, Content-Length, Accept-Encoding, Authorization, User-Agent', 'x-frame-options': 'SAMEORIGIN', 'X-Ratelimit-Limit': '25000', 'X-Ratelimit-Remaining': '24925', 'X-Ratelimit-Reset': '1739038210', 'x-request-id': 'a345521d-4831-4f17-8456-06f977c1681d', 'x-runtime': '0.047150', 'Set-Cookie': '__cf_bm=GNMVUB3EGHUqWGYF_KKifhSlDPQjD8.T7o5BcGqHEmk-1736538887-1.0.1.1-_N3lJZ1szMtHKU.mjBNRE99g2fdsp3twl829d4akk0lEXKu1t5giOwAPoJ6mA.YdgxrHlspmWaTAp.lhE.0aAg; path=/; expires=Fri, 10-Jan-25 20:24:47 GMT; domain=.pexels.com; HttpOnly; Secure; SameSite=None, _cfuvid=vWxqQvGmtAAU24RTBTQUq6kPMSwp0u0RMj7wb0e5QLg-1736538887747-0.0.1.1-604800000; path=/; domain=.pexels.com; HttpOnly; Secure; SameSite=None', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-01-10 14:55:25,882 - INFO - Pexels response data: {'page': 1, 'per_page': 15, 'photos': [{'id': 39559, 'width': 4280, 'height': 2843, 'url': 'https://www.pexels.com/photo/apple-magic-mouse-beside-white-ipad-39559/', 'photographer': 'Pixabay', 'photographer_url': 'https://www.pexels.com/@pixabay', 'photographer_id': 2659, 'avg_color': '#787E81', 'src': {'original': 'https://images.pexels.com/photos/39559/ipad-mockup-apple-business-39559.jpeg', 'large2x': 'https://images.pexels.com/photos/39559/ipad-mockup-apple-business-39559.jpeg?auto=compress&...
+2025-01-10 14:55:25,882 - INFO - Successfully processed 5 Pexels images
+2025-01-10 14:55:25,883 - INFO - Pexels results page 1: 5
+2025-01-10 14:55:25,883 - INFO - 127.0.0.1 - - [10/Jan/2025 14:55:25] "GET /search?query=crm&pixabay_page=1&pexels_page=1&t=1736538923998 HTTP/1.1" 200 -

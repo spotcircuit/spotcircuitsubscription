@@ -1,0 +1,11 @@
+services:
+  image-finder:
+    build: .
+    ports:
+      - "3800:3800"
+    volumes:
+      - ./assets:/app/assets
+      - ./utils:/app/utils
+    environment:
+      - FLASK_APP=utils/image_finder_web.py
+      - FLASK_ENV=development
