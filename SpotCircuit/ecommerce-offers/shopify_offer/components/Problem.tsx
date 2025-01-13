@@ -3,37 +3,37 @@ import Image from 'next/image';
 import { 
   MagnifyingGlassIcon, 
   ClockIcon, 
-  CurrencyDollarIcon,
-  WrenchScrewdriverIcon,
   ChartBarIcon,
-  ShareIcon,
-  UsersIcon,
-  BoltIcon,
-  ChartPieIcon,
-  PresentationChartLineIcon,
-  MagnifyingGlassCircleIcon,
+  ArrowTrendingUpIcon,
+  CurrencyDollarIcon,
   UserGroupIcon,
-  DocumentMagnifyingGlassIcon,
-  RocketLaunchIcon,
-  CpuChipIcon,
-  ArrowTrendingUpIcon
+  ShoppingCartIcon,
+  BuildingStorefrontIcon,
+  CursorArrowRaysIcon
 } from '@heroicons/react/24/outline';
+import { 
+  AreaChart, 
+  Area, 
+  LineChart, 
+  Line, 
+  ResponsiveContainer 
+} from 'recharts';
 
 const solutions = [
   {
     name: 'AI-Powered SEO',
     description: 'Our AI automatically optimizes your store\'s content, meta tags, and structure for maximum search visibility.',
-    icon: BoltIcon
+    icon: ArrowTrendingUpIcon
   },
   {
     name: 'Smart Analytics',
     description: 'Real-time insights into your store\'s performance, traffic patterns, and conversion rates.',
-    icon: ChartPieIcon
+    icon: ChartBarIcon
   },
   {
     name: 'Automated Optimization',
     description: 'Continuous improvements to your store\'s performance, content, and user experience.',
-    icon: PresentationChartLineIcon
+    icon: ShoppingCartIcon
   }
 ];
 
@@ -56,7 +56,7 @@ const painPoints = [
   {
     title: 'Technical Complexity',
     description: 'Complex SEO tools and strategies that require expertise you don\'t have time to master.',
-    icon: WrenchScrewdriverIcon
+    icon: BuildingStorefrontIcon
   }
 ];
 
@@ -71,13 +71,13 @@ const impactStats = [
     title: 'Market Share',
     value: '-80%',
     description: 'Less market share than competitors',
-    icon: ShareIcon
+    icon: UserGroupIcon
   },
   {
     title: 'Customer Loss',
     value: '65%',
     description: 'Of potential customers never find you',
-    icon: UsersIcon
+    icon: ShoppingCartIcon
   }
 ];
 
@@ -85,7 +85,7 @@ const journeySteps = [
   {
     title: 'Comprehensive Store Audit',
     description: 'We begin by thoroughly analyzing your store\'s current performance. This includes identifying technical issues, content gaps, and optimization opportunities to establish a solid foundation for improvement.',
-    icon: MagnifyingGlassCircleIcon
+    icon: MagnifyingGlassIcon
   },
   {
     title: 'Market & Competitor Analysis',
@@ -95,24 +95,72 @@ const journeySteps = [
   {
     title: 'Keyword Research & Optimization',
     description: 'Our team conducts in-depth keyword research to pinpoint the most effective keywords for your products and categories. We optimize your store\'s content, including titles, descriptions, and meta tags, to enhance visibility and attract targeted traffic.',
-    icon: DocumentMagnifyingGlassIcon
+    icon: ShoppingCartIcon
   },
   {
     title: 'Strategic Implementation',
     description: 'Leveraging the insights from our audits and research, we implement tailored optimization strategies. This includes on-page SEO enhancements, improving user experience, and ensuring your store aligns with best practices for both search engines and customers.',
-    icon: RocketLaunchIcon
+    icon: BuildingStorefrontIcon
   },
   {
     title: 'AI-Powered Optimization',
     description: 'Utilizing cutting-edge AI technology, we fine-tune your store for optimal performance on traditional search engines and AI-driven platforms. This advanced optimization ensures your store remains competitive in an ever-evolving digital landscape.',
-    icon: CpuChipIcon
+    icon: ArrowTrendingUpIcon
   },
   {
     title: 'Continuous Monitoring & Improvement',
     description: 'Success is an ongoing journey. We continuously monitor your store\'s performance using detailed analytics, making data-driven adjustments to maintain and enhance your store\'s growth. Regular performance reviews ensure that your store adapts to changing market conditions and continues to thrive.',
-    icon: ArrowTrendingUpIcon
+    icon: ChartBarIcon
   }
 ];
+
+const trafficData = [
+  { month: 'Jan', value: 1000 },
+  { month: 'Feb', value: 1500 },
+  { month: 'Mar', value: 2200 },
+  { month: 'Apr', value: 2800 },
+  { month: 'May', value: 3500 },
+  { month: 'Jun', value: 4200 },
+];
+
+const conversionData = [
+  { month: 'Jan', value: 1.2 },
+  { month: 'Feb', value: 1.8 },
+  { month: 'Mar', value: 2.3 },
+  { month: 'Apr', value: 2.9 },
+  { month: 'May', value: 3.4 },
+  { month: 'Jun', value: 3.8 },
+];
+
+const revenueData = [
+  { month: 'Jan', value: 45000 },
+  { month: 'Feb', value: 58000 },
+  { month: 'Mar', value: 72000 },
+  { month: 'Apr', value: 89000 },
+  { month: 'May', value: 102000 },
+  { month: 'Jun', value: 125000 },
+];
+
+const trafficImprovementData = [
+  { name: 'Improvement', value: 280 },
+  { name: 'Base', value: 20 },
+];
+
+const conversionImprovementData = [
+  { period: 'Before', value: 1.2 },
+  { period: 'After', value: 3.8 },
+];
+
+const ctrData = [
+  { day: 1, value: 1.2 },
+  { day: 2, value: 1.5 },
+  { day: 3, value: 1.8 },
+  { day: 4, value: 1.9 },
+  { day: 5, value: 2.0 },
+  { day: 6, value: 2.1 },
+];
+
+const COLORS = ['#10B981', '#374151'];
 
 export default function Problem() {
   return (
@@ -171,7 +219,7 @@ export default function Problem() {
         </div>
       </div>
 
-      {/* Impact Section - Black Background */}
+      {/* Cost of Inaction Section - Black Background */}
       <div className="bg-black py-16">
         <div className="mx-auto max-w-7xl px-4">
           <div className="lg:flex lg:items-center lg:gap-x-16">
@@ -223,21 +271,18 @@ export default function Problem() {
       {/* AI-Powered Optimization Section */}
       <div className="bg-green-600 py-16">
         <div className="mx-auto max-w-7xl px-4">
-          <div className="lg:flex lg:items-center lg:gap-x-16">
-            {/* SVG on the right */}
-            <div className="lg:w-1/2 flex justify-center lg:justify-end lg:order-last">
+          <div className="flex flex-col md:flex-row items-center gap-8">
+            <div className="w-full md:w-1/2">
               <Image
                 src="/static/images/aipoweredoptimization.svg"
                 alt="AI-Powered Optimization"
-                width={600}
+                width={500}
                 height={500}
-                className="w-full max-w-lg"
+                className="w-full h-auto"
                 priority
               />
             </div>
-
-            {/* Content on the left */}
-            <div className="lg:w-1/2">
+            <div className="w-full md:w-1/2">
               <div className="mx-auto max-w-2xl lg:mx-0 text-center lg:text-left">
                 <h2 className="text-base font-semibold leading-7 text-green-200">The Solution</h2>
                 <p className="mt-1 text-3xl font-bold tracking-tight text-white sm:text-4xl">
@@ -262,161 +307,6 @@ export default function Problem() {
                       </div>
                     </div>
                   ))}
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Results Section - Green Background */}
-      <div className="bg-green-600 py-16">
-        <div className="mx-auto max-w-7xl px-4">
-          <div className="mx-auto max-w-2xl text-center">
-            <h2 className="text-base font-semibold leading-7 text-green-200">Real Results</h2>
-            <p className="mt-1 text-3xl font-bold tracking-tight text-white sm:text-4xl">
-              What You'll Achieve
-            </p>
-            <p className="mt-2 text-lg leading-8 text-green-100">
-              Our clients consistently see these remarkable improvements within 90 days.
-            </p>
-          </div>
-          <div className="mx-auto mt-8 grid max-w-2xl grid-cols-1 gap-8 text-center lg:max-w-none lg:grid-cols-3">
-            <div className="rounded-3xl bg-white/5 px-8 py-6">
-              <h3 className="text-lg font-semibold leading-8 tracking-tight text-white">Traffic Growth</h3>
-              <p className="mt-4 text-5xl font-bold tracking-tight text-white">235%</p>
-              <p className="mt-4 text-base leading-7 text-green-100">Increase in organic traffic through AI-optimized content and structure</p>
-            </div>
-            <div className="rounded-3xl bg-white/5 px-8 py-6">
-              <h3 className="text-lg font-semibold leading-8 tracking-tight text-white">Conversion Rate</h3>
-              <p className="mt-4 text-5xl font-bold tracking-tight text-white">4.5%</p>
-              <p className="mt-4 text-base leading-7 text-green-100">Average conversion rate, well above the industry standard of 1-2%</p>
-            </div>
-            <div className="rounded-3xl bg-white/5 px-8 py-6">
-              <h3 className="text-lg font-semibold leading-8 tracking-tight text-white">Revenue Growth</h3>
-              <p className="mt-4 text-5xl font-bold tracking-tight text-white">180%</p>
-              <p className="mt-4 text-base leading-7 text-green-100">Average increase in monthly revenue from organic search</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Success Stories Section - White Background */}
-      <div className="bg-white py-16">
-        <div className="mx-auto max-w-7xl px-4">
-          <div className="mx-auto max-w-2xl text-center mb-12">
-            <h2 className="text-base font-semibold leading-7 text-green-600">Proven Results</h2>
-            <p className="mt-1 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-              Real Results from Real E-commerce Businesses
-            </p>
-            <p className="mt-2 text-lg leading-8 text-gray-600">
-              See how our AI-powered SEO automation has transformed these leading e-commerce businesses with measurable, sustainable growth.
-            </p>
-          </div>
-
-          {/* Performance Dashboard */}
-          <div className="mb-16">
-            <h3 className="text-xl font-semibold text-center mb-8">Performance Dashboard</h3>
-            {/* Live Data Stats */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
-              <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h4 className="text-sm font-medium text-gray-500">Total Traffic</h4>
-                <p className="mt-2 text-3xl font-bold text-gray-900">10,000+</p>
-                <p className="text-green-600 text-sm font-semibold">+235% ↑</p>
-              </div>
-              <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h4 className="text-sm font-medium text-gray-500">Conversion Rate</h4>
-                <p className="mt-2 text-3xl font-bold text-gray-900">3.8%</p>
-                <p className="text-green-600 text-sm font-semibold">+158% ↑</p>
-              </div>
-              <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h4 className="text-sm font-medium text-gray-500">Revenue Growth</h4>
-                <p className="mt-2 text-3xl font-bold text-gray-900">$125K</p>
-                <p className="text-green-600 text-sm font-semibold">+312% ↑</p>
-              </div>
-            </div>
-
-            {/* Growth Metrics */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-              <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h4 className="text-sm font-medium text-gray-500">Average Traffic Increase</h4>
-                <p className="mt-2 text-3xl font-bold text-gray-900">280%</p>
-              </div>
-              <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h4 className="text-sm font-medium text-gray-500">Conversion Rate Improvement</h4>
-                <p className="mt-2 text-3xl font-bold text-gray-900">165%</p>
-              </div>
-              <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h4 className="text-sm font-medium text-gray-500">Click-Through Rate Growth</h4>
-                <p className="mt-2 text-3xl font-bold text-gray-900">210%</p>
-              </div>
-            </div>
-          </div>
-
-          {/* Case Studies */}
-          <div className="grid grid-cols-1 gap-12">
-            {/* Star City Games */}
-            <div className="bg-white rounded-xl shadow-lg overflow-hidden">
-              <div className="p-8">
-                <h3 className="text-2xl font-bold text-gray-900">Star City Games</h3>
-                <p className="mt-2 text-gray-600">Leading trading card game retailer achieved 312% increase in organic traffic and 189% boost in e-commerce conversions through our AI-driven SEO strategy.</p>
-                <div className="mt-6 grid grid-cols-3 gap-4">
-                  <div>
-                    <h4 className="text-sm font-medium text-gray-500">Organic Traffic Growth</h4>
-                    <p className="mt-2 text-2xl font-bold text-green-600">312%</p>
-                  </div>
-                  <div>
-                    <h4 className="text-sm font-medium text-gray-500">Conversion Rate</h4>
-                    <p className="mt-2 text-2xl font-bold text-green-600">189%</p>
-                  </div>
-                  <div>
-                    <h4 className="text-sm font-medium text-gray-500">Revenue Increase</h4>
-                    <p className="mt-2 text-2xl font-bold text-green-600">245%</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Mr. Maple */}
-            <div className="bg-white rounded-xl shadow-lg overflow-hidden">
-              <div className="p-8">
-                <h3 className="text-2xl font-bold text-gray-900">Mr. Maple</h3>
-                <p className="mt-2 text-gray-600">Specialty plant retailer saw 256% growth in qualified leads and 178% increase in organic search visibility after implementing our AI automation.</p>
-                <div className="mt-6 grid grid-cols-3 gap-4">
-                  <div>
-                    <h4 className="text-sm font-medium text-gray-500">Lead Generation</h4>
-                    <p className="mt-2 text-2xl font-bold text-green-600">256%</p>
-                  </div>
-                  <div>
-                    <h4 className="text-sm font-medium text-gray-500">Search Visibility</h4>
-                    <p className="mt-2 text-2xl font-bold text-green-600">178%</p>
-                  </div>
-                  <div>
-                    <h4 className="text-sm font-medium text-gray-500">Customer Engagement</h4>
-                    <p className="mt-2 text-2xl font-bold text-green-600">203%</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* BNB Tobacco */}
-            <div className="bg-white rounded-xl shadow-lg overflow-hidden">
-              <div className="p-8">
-                <h3 className="text-2xl font-bold text-gray-900">BNB Tobacco</h3>
-                <p className="mt-2 text-gray-600">Premium tobacco retailer experienced 290% increase in organic rankings and 225% improvement in conversion rates through our optimization strategy.</p>
-                <div className="mt-6 grid grid-cols-3 gap-4">
-                  <div>
-                    <h4 className="text-sm font-medium text-gray-500">Organic Rankings</h4>
-                    <p className="mt-2 text-2xl font-bold text-green-600">290%</p>
-                  </div>
-                  <div>
-                    <h4 className="text-sm font-medium text-gray-500">Conversion Rate</h4>
-                    <p className="mt-2 text-2xl font-bold text-green-600">225%</p>
-                  </div>
-                  <div>
-                    <h4 className="text-sm font-medium text-gray-500">Average Order Value</h4>
-                    <p className="mt-2 text-2xl font-bold text-green-600">167%</p>
-                  </div>
                 </div>
               </div>
             </div>
@@ -463,6 +353,258 @@ export default function Problem() {
                 <p className="text-xs text-gray-600 leading-5">{step.description}</p>
               </div>
             ))}
+          </div>
+        </div>
+      </div>
+
+      {/* Results Section - Green Background */}
+      <div className="bg-gradient-to-r from-green-600 to-green-500 py-16">
+        <div className="mx-auto max-w-7xl px-4">
+          <div className="mx-auto max-w-2xl text-center mb-12">
+            <h2 className="text-base font-semibold leading-7 text-green-200">Proven Results</h2>
+            <p className="mt-1 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+              Real Results from Real E-commerce Businesses
+            </p>
+            <p className="mt-2 text-lg leading-8 text-green-100">
+              See how our AI-powered SEO automation has transformed these leading e-commerce businesses with measurable, sustainable growth.
+            </p>
+          </div>
+
+          {/* Live Performance Dashboard */}
+          <div className="mb-16">
+            <h3 className="text-xl font-semibold text-center mb-8 text-white">Live Performance Dashboard</h3>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+              {/* Traffic Growth Chart */}
+              <div className="relative h-64 bg-green-700/50 rounded-lg p-6">
+                <h4 className="text-sm font-medium text-green-200">Organic Traffic Growth</h4>
+                <div className="h-48 mt-4">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <AreaChart data={trafficData}>
+                      <defs>
+                        <linearGradient id="trafficGradient" x1="0" y1="0" x2="0" y2="1">
+                          <stop offset="5%" stopColor="#4ADE80" stopOpacity={0.3} />
+                          <stop offset="95%" stopColor="#4ADE80" stopOpacity={0} />
+                        </linearGradient>
+                      </defs>
+                      <Area
+                        type="monotone"
+                        dataKey="value"
+                        stroke="#4ADE80"
+                        strokeWidth={2}
+                        fill="url(#trafficGradient)"
+                      />
+                    </AreaChart>
+                  </ResponsiveContainer>
+                  <div className="absolute bottom-6 left-6">
+                    <p className="text-2xl font-bold text-white">+280%</p>
+                    <p className="text-sm text-green-200">Year over Year</p>
+                  </div>
+                </div>
+              </div>
+
+              {/* Conversion Rate Chart */}
+              <div className="relative h-64 bg-green-700/50 rounded-lg p-6">
+                <h4 className="text-sm font-medium text-green-200">Conversion Rate Trend</h4>
+                <div className="h-48 mt-4">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <LineChart data={conversionData}>
+                      <Line
+                        type="monotone"
+                        dataKey="value"
+                        stroke="#4ADE80"
+                        strokeWidth={2}
+                        dot={{ fill: '#4ADE80', strokeWidth: 2 }}
+                      />
+                    </LineChart>
+                  </ResponsiveContainer>
+                  <div className="absolute bottom-6 left-6">
+                    <p className="text-2xl font-bold text-white">3.8%</p>
+                    <p className="text-sm text-green-200">Current Rate</p>
+                  </div>
+                </div>
+              </div>
+
+              {/* Revenue Chart */}
+              <div className="relative h-64 bg-green-700/50 rounded-lg p-6">
+                <h4 className="text-sm font-medium text-green-200">Revenue Growth</h4>
+                <div className="h-48 mt-4">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <AreaChart data={revenueData}>
+                      <defs>
+                        <linearGradient id="revenueGradient" x1="0" y1="0" x2="0" y2="1">
+                          <stop offset="5%" stopColor="#4ADE80" stopOpacity={0.3} />
+                          <stop offset="95%" stopColor="#4ADE80" stopOpacity={0} />
+                        </linearGradient>
+                      </defs>
+                      <Area
+                        type="monotone"
+                        dataKey="value"
+                        stroke="#4ADE80"
+                        strokeWidth={2}
+                        fill="url(#revenueGradient)"
+                      />
+                    </AreaChart>
+                  </ResponsiveContainer>
+                  <div className="absolute bottom-6 left-6">
+                    <p className="text-2xl font-bold text-white">$125K</p>
+                    <p className="text-sm text-green-200">Monthly Revenue</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Growth Metrics */}
+          <div className="mb-16">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+              <div className="flex items-center gap-x-3">
+                <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-lg bg-green-600">
+                  <ChartBarIcon className="h-6 w-6 text-white" aria-hidden="true" />
+                </div>
+                <div>
+                  <h4 className="text-sm font-medium text-green-200">Average Traffic Increase</h4>
+                  <p className="mt-1 text-2xl font-bold text-white">280%</p>
+                </div>
+              </div>
+              <div className="flex items-center gap-x-3">
+                <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-lg bg-green-600">
+                  <ArrowTrendingUpIcon className="h-6 w-6 text-white" aria-hidden="true" />
+                </div>
+                <div>
+                  <h4 className="text-sm font-medium text-green-200">Conversion Rate Improvement</h4>
+                  <p className="mt-1 text-2xl font-bold text-white">165%</p>
+                </div>
+              </div>
+              <div className="flex items-center gap-x-3">
+                <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-lg bg-green-600">
+                  <CursorArrowRaysIcon className="h-6 w-6 text-white" aria-hidden="true" />
+                </div>
+                <div>
+                  <h4 className="text-sm font-medium text-green-200">Click-Through Rate Growth</h4>
+                  <p className="mt-1 text-2xl font-bold text-white">210%</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Case Studies */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {/* Star City Games */}
+            <div className="bg-green-700/50 rounded-xl overflow-hidden border border-green-400/20">
+              <div className="h-48 relative">
+                <Image
+                  src="/static/images/cases/starcity.jpg"
+                  alt="Star City Games Case Study"
+                  fill
+                  className="object-cover"
+                />
+              </div>
+              <div className="p-8">
+                <h3 className="text-2xl font-bold text-white">Star City Games</h3>
+                <p className="mt-2 text-green-100">Leading trading card game retailer achieved 312% increase in organic traffic and 189% boost in e-commerce conversions through our AI-driven SEO strategy.</p>
+                <div className="mt-6 space-y-4">
+                  <div className="flex items-center gap-x-3">
+                    <div className="h-full w-1 bg-blue-400"></div>
+                    <div>
+                      <h4 className="text-sm font-medium text-green-200">Organic Traffic Growth</h4>
+                      <p className="mt-1 text-2xl font-bold text-white">312%</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-x-3">
+                    <div className="h-full w-1 bg-blue-400"></div>
+                    <div>
+                      <h4 className="text-sm font-medium text-green-200">Conversion Rate</h4>
+                      <p className="mt-1 text-2xl font-bold text-white">189%</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-x-3">
+                    <div className="h-full w-1 bg-blue-400"></div>
+                    <div>
+                      <h4 className="text-sm font-medium text-green-200">Revenue Increase</h4>
+                      <p className="mt-1 text-2xl font-bold text-white">245%</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Mr. Maple */}
+            <div className="bg-green-700/50 rounded-xl overflow-hidden border border-green-400/20">
+              <div className="h-48 relative">
+                <Image
+                  src="/static/images/cases/mrmaple.jpg"
+                  alt="Mr. Maple Case Study"
+                  fill
+                  className="object-cover"
+                />
+              </div>
+              <div className="p-8">
+                <h3 className="text-2xl font-bold text-white">Mr. Maple</h3>
+                <p className="mt-2 text-green-100">Specialty plant retailer saw 256% growth in qualified leads and 178% increase in organic search visibility after implementing our AI automation.</p>
+                <div className="mt-6 space-y-4">
+                  <div className="flex items-center gap-x-3">
+                    <div className="h-full w-1 bg-blue-400"></div>
+                    <div>
+                      <h4 className="text-sm font-medium text-green-200">Lead Generation</h4>
+                      <p className="mt-1 text-2xl font-bold text-white">256%</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-x-3">
+                    <div className="h-full w-1 bg-blue-400"></div>
+                    <div>
+                      <h4 className="text-sm font-medium text-green-200">Search Visibility</h4>
+                      <p className="mt-1 text-2xl font-bold text-white">178%</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-x-3">
+                    <div className="h-full w-1 bg-blue-400"></div>
+                    <div>
+                      <h4 className="text-sm font-medium text-green-200">Customer Engagement</h4>
+                      <p className="mt-1 text-2xl font-bold text-white">203%</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* BNB Tobacco */}
+            <div className="bg-green-700/50 rounded-xl overflow-hidden border border-green-400/20">
+              <div className="h-48 relative">
+                <Image
+                  src="/static/images/cases/bnb.jpg"
+                  alt="BNB Tobacco Case Study"
+                  fill
+                  className="object-cover"
+                />
+              </div>
+              <div className="p-8">
+                <h3 className="text-2xl font-bold text-white">BNB Tobacco</h3>
+                <p className="mt-2 text-green-100">Premium tobacco retailer experienced 290% increase in organic rankings and 225% improvement in conversion rates through our optimization strategy.</p>
+                <div className="mt-6 space-y-4">
+                  <div className="flex items-center gap-x-3">
+                    <div className="h-full w-1 bg-blue-400"></div>
+                    <div>
+                      <h4 className="text-sm font-medium text-green-200">Organic Rankings</h4>
+                      <p className="mt-1 text-2xl font-bold text-white">290%</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-x-3">
+                    <div className="h-full w-1 bg-blue-400"></div>
+                    <div>
+                      <h4 className="text-sm font-medium text-green-200">Conversion Rate</h4>
+                      <p className="mt-1 text-2xl font-bold text-white">225%</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-x-3">
+                    <div className="h-full w-1 bg-blue-400"></div>
+                    <div>
+                      <h4 className="text-sm font-medium text-green-200">Average Order Value</h4>
+                      <p className="mt-1 text-2xl font-bold text-white">167%</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
