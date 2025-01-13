@@ -81,39 +81,6 @@ const impactStats = [
   }
 ];
 
-const journeySteps = [
-  {
-    title: 'Comprehensive Store Audit',
-    description: 'We begin by thoroughly analyzing your store\'s current performance. This includes identifying technical issues, content gaps, and optimization opportunities to establish a solid foundation for improvement.',
-    icon: MagnifyingGlassIcon
-  },
-  {
-    title: 'Market & Competitor Analysis',
-    description: 'Understanding your market landscape is crucial. We assess your competitors\' strategies, identify industry trends, and uncover unique opportunities to position your store ahead of the competition.',
-    icon: UserGroupIcon
-  },
-  {
-    title: 'Keyword Research & Optimization',
-    description: 'Our team conducts in-depth keyword research to pinpoint the most effective keywords for your products and categories. We optimize your store\'s content, including titles, descriptions, and meta tags, to enhance visibility and attract targeted traffic.',
-    icon: ShoppingCartIcon
-  },
-  {
-    title: 'Strategic Implementation',
-    description: 'Leveraging the insights from our audits and research, we implement tailored optimization strategies. This includes on-page SEO enhancements, improving user experience, and ensuring your store aligns with best practices for both search engines and customers.',
-    icon: BuildingStorefrontIcon
-  },
-  {
-    title: 'AI-Powered Optimization',
-    description: 'Utilizing cutting-edge AI technology, we fine-tune your store for optimal performance on traditional search engines and AI-driven platforms. This advanced optimization ensures your store remains competitive in an ever-evolving digital landscape.',
-    icon: ArrowTrendingUpIcon
-  },
-  {
-    title: 'Continuous Monitoring & Improvement',
-    description: 'Success is an ongoing journey. We continuously monitor your store\'s performance using detailed analytics, making data-driven adjustments to maintain and enhance your store\'s growth. Regular performance reviews ensure that your store adapts to changing market conditions and continues to thrive.',
-    icon: ChartBarIcon
-  }
-];
-
 const trafficData = [
   { month: 'Jan', value: 1000 },
   { month: 'Feb', value: 1500 },
@@ -139,25 +106,6 @@ const revenueData = [
   { month: 'Apr', value: 89000 },
   { month: 'May', value: 102000 },
   { month: 'Jun', value: 125000 },
-];
-
-const trafficImprovementData = [
-  { name: 'Improvement', value: 280 },
-  { name: 'Base', value: 20 },
-];
-
-const conversionImprovementData = [
-  { period: 'Before', value: 1.2 },
-  { period: 'After', value: 3.8 },
-];
-
-const ctrData = [
-  { day: 1, value: 1.2 },
-  { day: 2, value: 1.5 },
-  { day: 3, value: 1.8 },
-  { day: 4, value: 1.9 },
-  { day: 5, value: 2.0 },
-  { day: 6, value: 2.1 },
 ];
 
 const COLORS = ['#10B981', '#374151'];
@@ -310,49 +258,6 @@ export default function Problem() {
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Journey Section - White Background */}
-      <div className="bg-white py-16">
-        <div className="mx-auto max-w-7xl px-4">
-          <div className="mx-auto max-w-2xl text-center mb-6">
-            <h2 className="text-base font-semibold leading-7 text-green-600">Your Journey</h2>
-            <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-              How We Transform Your Store
-            </p>
-            <p className="mt-2 text-lg leading-8 text-gray-600">
-              Our proven process takes your store from struggling to thriving in just 6 steps.
-            </p>
-          </div>
-
-          {/* SVG centered */}
-          <div className="mb-6">
-            <div className="mx-auto h-[800px] w-[1000px] relative">
-              <Image
-                src="/static/images/6steptransform.svg"
-                alt="6 Step Transformation Process"
-                fill
-                className="object-contain"
-                priority
-              />
-            </div>
-          </div>
-
-          {/* Journey Steps in 3x2 Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 max-w-[1200px] mx-auto">
-            {journeySteps.map((step, index) => (
-              <div key={step.title} className="rounded-lg bg-gray-50 p-3 ring-1 ring-inset ring-gray-900/5">
-                <div className="flex items-center gap-x-2 mb-2">
-                  <div className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-md bg-sky-100">
-                    <step.icon className="h-4 w-4 text-sky-600" aria-hidden="true" />
-                  </div>
-                  <h3 className="text-sm font-semibold leading-6 text-gray-900">Step {index + 1}: {step.title}</h3>
-                </div>
-                <p className="text-xs text-gray-600 leading-5">{step.description}</p>
-              </div>
-            ))}
           </div>
         </div>
       </div>
